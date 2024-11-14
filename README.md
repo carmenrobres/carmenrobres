@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 Hi there! 👋
 I'm an Industrial Designer Engineer exploring the exciting world of AI in my Master's program for Design for Emerging Futures. 🚀
 
@@ -9,4 +9,4 @@ I’m diving deep into creative design, technology, and understanding their impa
 Join me on this journey as I experiment, learn, and share projects that mix design, technology, and a dash of curiosity!
 
 Let’s connect and create the future together! ✨
--->
+
